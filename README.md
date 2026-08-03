@@ -1,4 +1,4 @@
-# UST TO DS to LAB Converter
+# UST to DS to LAB Converter
 
 Converts Diffsinger `.ds` files (exported from OpenUtau) to `.lab` files for VLabeler.
 
