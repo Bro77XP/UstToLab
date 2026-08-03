@@ -20,7 +20,7 @@ diffsingerGenbasedoffvocals.py
     ↓
 .ds (Diffsinger Synthesizer file)
     ↓
-convert_ds_to_lab.py
+convert_ds_to_lab.py (converts word-level into phoneme level)
     ↓
 .lab (HTK-style label file)
     ↓
