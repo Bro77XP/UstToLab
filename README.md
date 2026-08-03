@@ -16,7 +16,7 @@ Vocal WAV
     ↓
 diffsingerGenbasedoffvocals.py
     ↓
-.ust (UTAU Sequence Text)
+.ust (UTAU Sequence Text) (where you can adjust timing for word level phonemes)
     ↓
 OpenUtau + DiffSinger voicebank (render)
     ↓
