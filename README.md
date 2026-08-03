@@ -18,8 +18,6 @@ diffsingerGenbasedoffvocals.py
     ↓
 .ust (UTAU Sequence Text) (where you can adjust timing for word level phonemes)
     ↓
-OpenUtau + DiffSinger voicebank (render)
-    ↓
 .ds (Diffsinger Synthesizer file)
     ↓
 convert_ds_to_lab.py
