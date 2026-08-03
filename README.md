@@ -6,6 +6,9 @@ Converts Diffsinger `.ds` files (exported from OpenUtau) to `.lab` files for VLa
 
 When you render a UST in OpenUtau with a DiffSinger voicebank, it produces a `.ds` file containing phoneme-level timing and pitch data. This script extracts the phoneme timings from that `.ds` file and converts them into an HTK-style `.lab` file that VLabeler can import for manual label editing.
 
+
+<img width="2112" height="1048" alt="Screenshot 2026-08-02 194734" src="https://github.com/user-attachments/assets/618c183d-9ae5-4b2f-b22d-e47c6b43447f" />
+
 ## Workflow
 
 ```
