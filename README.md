@@ -4,7 +4,9 @@ Converts Diffsinger `.ds` files (exported from OpenUtau) to `.lab` files for VLa
 
 ## Overview
 
--Unfinished Shockers don't be a butt about the timing system as i'm not updating this project anytime soon unless i get motivation 
+-Unfinished Shockers don't be a butt about the timing system as i'm not updating this project anytime soon unless i get motivation but ds_to_lab.py works just not the other file Currently although you can bypass the issue if you have covers lying around that you can use for a base so you can save time
+
+ustx song cover of a diffsinegr --> ds ---> Lab <---- and sing same song and that'll give you a better base Than diffsingerGenbasedoffvocals.py since i haven't been working on that file
 
 When you render a UST in OpenUtau with a DiffSinger voicebank, it produces a `.ds` file containing phoneme-level timing and pitch data. This script extracts the phoneme timings from that `.ds` file and converts them into an HTK-style `.lab` file that VLabeler can import for manual label editing.
 
